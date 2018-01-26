@@ -6,6 +6,7 @@
 
 [Apache NiFi Expression Language Guide](https://nifi.apache.org/docs/nifi-docs/html/expression-language-guide.html)
 
+
 [Apache NiFi 1.x Cheatsheet](https://dzone.com/articles/apache-nifi-10-cheatsheet)
 
 [Awesome NiFi List](https://dzone.com/articles/apache-nifi-10-cheatsheet)
@@ -33,6 +34,8 @@
 
 [Apache NiFi REST API Reference](https://nifi.apache.org/docs/nifi-docs/rest-api/index.html)
 
+[HortonWorks Apachi NiFi videos](https://hortonworks.com/apache/nifi/#section_5)
+
 ***
 ## Articles
 
@@ -58,4 +61,11 @@
 ***
 ## Development
 
+[Apache Nifi Jira issues](https://issues.apache.org/jira/projects/NIFI/issues/NIFI-4610?filter=allopenissues)
+
 [NiFi Debugging Tutorial](https://community.hortonworks.com/articles/106931/nifi-debugging-tutorial.html)
+
+***
+## Interesting NiFi repositories 
+
+[Shell for scripting against Apache NiFi](https://github.com/jdye64/nifi-shell) I havent managed to get it to work but looked at its code and its interesting.
