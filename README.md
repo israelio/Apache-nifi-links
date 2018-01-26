@@ -2,14 +2,14 @@
 
 ##Documentation
 
-[Official Getting Started with Apache NiFi]https://nifi.apache.org/docs/nifi-docs/html/getting-started.html
-[Apache NiFi Expression Language Guide]https://nifi.apache.org/docs/nifi-docs/html/expression-language-guide.html
-[Apache NiFi 1.x Cheatsheet]https://dzone.com/articles/apache-nifi-10-cheatsheet
-[Awesome NiFi List]https://dzone.com/articles/apache-nifi-10-cheatsheet
+[Official Getting Started with Apache NiFi](https://nifi.apache.org/docs/nifi-docs/html/getting-started.html)
+[Apache NiFi Expression Language Guide](https://nifi.apache.org/docs/nifi-docs/html/expression-language-guide.html)
+[Apache NiFi 1.x Cheatsheet](https://dzone.com/articles/apache-nifi-10-cheatsheet)
+[Awesome NiFi List](https://dzone.com/articles/apache-nifi-10-cheatsheet)
 
 ##Hortonworks guides
-[Getting Started with Apache NiFi]https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.0/index.html#bk_getting-started-with-apache-nifi
-[pdf]https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.0/bk_getting-started-with-apache-nifi/bk_getting-started-with-apache-nifi.pdf
+[Getting Started with Apache NiFi](https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.0/index.html#bk_getting-started-with-apache-nifi)
+[pdf](https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.0/bk_getting-started-with-apache-nifi/bk_getting-started-with-apache-nifi.pdf)
 
 [Apache NiFi User Guide]https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.0/index.html#bk_user-guide
 [pdf]https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.0/bk_user-guide/bk_user-guide.pdf
