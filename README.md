@@ -68,4 +68,4 @@
 ***
 ## Interesting NiFi repositories 
 
-[Shell for scripting against Apache NiFi](https://github.com/jdye64/nifi-shell) I havent managed to get it to work but looked at its code and its interesting.
+[Shell for scripting against Apache NiFi](https://github.com/jdye64/nifi-shell) - Havent managed to get it to work but looked at its code and its interesting.
