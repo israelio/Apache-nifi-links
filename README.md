@@ -68,4 +68,36 @@
 ***
 ## Interesting NiFi repositories 
 
+### Nifi Deployment
+
 [Shell for scripting against Apache NiFi](https://github.com/jdye64/nifi-shell) - Havent managed to get it to work but looked at its code and its interesting.
+
+[NiFi api deploy](https://github.com/aperepel/nifi-api-deploy)
+
+### Building processors / Additional processors
+
+[nifi-network-processor](https://github.com/abajwa-hw/nifi-network-processor)
+
+[nifi-processor-examples](https://github.com/dstreev/nifi-processor-examples)
+
+[ambari-nifi-service](https://github.com/abajwa-hw/ambari-nifi-service)
+
+[nifi-streaming-examples](https://github.com/bbende/nifi-streaming-examples)
+
+### Using NiFi api
+
+[Creating NiFi Template via Rest API](https://community.hortonworks.com/articles/87160/creating-nifi-template-via-rest-api.html)
+
+[Post a NIFI template via REST](https://stackoverflow.com/questions/38446620/post-a-nifi-template-via-rest)
+
+## Example Dataflow Templates
+
+[NiFi confluence - Example Dataflow Templates](https://cwiki.apache.org/confluence/display/NIFI/Example+Dataflow+Templates)
+
+[HortonWorks nifi templates](https://github.com/hortonworks-gallery/nifi-templates)
+
+[SQL-to-CSV_ExecuteScript](https://gist.github.com/mattyb149/9945663ae9ae5dcb1ddb43d21553204d)
+
+
+
+
