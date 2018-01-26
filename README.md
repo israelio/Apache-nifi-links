@@ -1,6 +1,6 @@
 # Apach-nifi-links
 
-##Documentation
+## Documentation
 
 [Official Getting Started with Apache NiFi](https://nifi.apache.org/docs/nifi-docs/html/getting-started.html)
 
@@ -11,7 +11,7 @@
 [Awesome NiFi List](https://dzone.com/articles/apache-nifi-10-cheatsheet)
 
 ***
-##Hortonworks guides
+## Hortonworks guides
 [Getting Started with Apache NiFi](https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.0/index.html#bk_getting-started-with-apache-nifi)
 [pdf](https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.0/bk_getting-started-with-apache-nifi/bk_getting-started-with-apache-nifi.pdf)
 
