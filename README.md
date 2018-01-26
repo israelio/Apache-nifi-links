@@ -84,6 +84,11 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [A demo collecting wifi admin packets with a raspberry pi, and pushing them to nifi.](https://github.com/simonellistonball/PiWiNiFi)
 
+[Split one Nifi flow file into Multiple flow file based on attribute](https://community.hortonworks.com/questions/106878/split-one-nifi-flow-file-into-multiple-flow-file-b.html)
+
+[NiFi example on how to join CSV files to create a merged result](https://gist.github.com/ijokarumawak/7e20af1cd222fb2adf13acb2b0f46aed)
+
+
 ***
 ## Development
 
@@ -103,6 +108,10 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [NiFi api deploy](https://github.com/aperepel/nifi-api-deploy)
 
 [Update NiFi Flow On-the-Fly via API](https://community.hortonworks.com/articles/3160/update-nifi-flow-on-the-fly-via-api.html)
+
+[terraform-provider-nifi](https://github.com/Glympse/terraform-provider-nifi)
+
+[nifi-config](https://github.com/hermannpencole/nifi-config)
 
 ### Building processors / Additional processors
 
@@ -124,15 +133,33 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [nifi-ConvertJSONtoCSV-bundle](https://github.com/acesir/nifi-ConvertJSONtoCSV-bundle)
 
+[Machine Learning in NiFi](https://github.com/simonellistonball/nifi-ml-bundle)
+
+[nifi-box-connector](https://github.com/SebastianCarroll/nifi-box-connector)
+
+[nifi-put-site-to-site-bundle](https://github.com/jfrazee/nifi-put-site-to-site-bundle)
+
+[nifi-lookup-service](https://github.com/jfrazee/nifi-lookup-service)
+
+[nifi-redis-bundle](https://github.com/jfrazee/nifi-redis-bundle)
+
+[nifi-websockets-bundle](https://github.com/jfrazee/nifi-websockets-bundle)
+
+[nifi-msgpack-bundle](https://github.com/jfrazee/nifi-msgpack-bundle)
+
 ### Using NiFi api
 
 [Creating NiFi Template via Rest API](https://community.hortonworks.com/articles/87160/creating-nifi-template-via-rest-api.html)
 
 [Post a NIFI template via REST](https://stackoverflow.com/questions/38446620/post-a-nifi-template-via-rest)
 
+[Nifipi Ruby wrapper](https://github.com/SebastianCarroll/nifi-api)
+
 ### Learning Nifi
 
 [nifi workshop](https://github.com/aperepel/nifi-workshop)
+
+[nifi-master-class](https://github.com/jfrazee/nifi-master-class)
 
 ## Example Dataflow Templates
 
