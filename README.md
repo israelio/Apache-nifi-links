@@ -57,7 +57,21 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 
 [HDF/NIFI Best practices for setting up a high performance NiFi installation.](https://community.hortonworks.com/content/kbentry/7882/hdfnifi-best-practices-for-setting-up-a-high-perfo.html)
 
+[NiFi Sizing Guide & Deployment Best Practices](https://community.hortonworks.com/articles/135337/nifi-sizing-guide-deployment-best-practices.html)
 
+[NiFi/HDF Dataflow Optimization](https://community.hortonworks.com/articles/9782/nifihdf-dataflow-optimization-part-1-of-2.html)
+
+[Enterprise NiFi: Implementing Reusable Components and an SDLC](https://community.hortonworks.com/articles/60868/enterprise-nifi-implementing-reusable-components-a.html)
+
+[How can we update NIFI workflow in production](https://community.hortonworks.com/questions/118441/how-can-we-update-nifi-workflow-in-production.html)
+
+[automating NIFI template deployment](https://community.hortonworks.com/questions/84354/automating-nifi-template-deployment.html)
+
+[NiFi automatic deployment for NiFi 1.x versions in Java](https://community.hortonworks.com/questions/136377/nifi-automatic-deployment-for-nifi-1x-versions-in.html)
+
+[ANALYZE TRANSIT PATTERNS WITH APACHE NIFI](https://hortonworks.com/tutorial/analyze-transit-patterns-with-apache-nifi/section/7/)
+
+[Apache NiFi Flow Demo](http://www.nifidesigns.com/#nextbus)
 
 ***
 ## Json support
@@ -112,6 +126,18 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [terraform-provider-nifi](https://github.com/Glympse/terraform-provider-nifi)
 
 [nifi-config](https://github.com/hermannpencole/nifi-config)
+
+[A convenient Python wrapper for Apache NiFi](https://github.com/Chaffelson/nipyapi)
+
+[Client swagger for nifi with security](https://github.com/hermannpencole/nifi-swagger-client)
+
+[NIFI Deployment Via API's](https://community.hortonworks.com/questions/150881/nifi-deployment-via-apis.html)
+
+[Consume API with Nifi-Token authentication](https://community.hortonworks.com/questions/140203/consume-api-with-nifi-token-authentication.html)
+
+[Configuration Management of Flows](https://cwiki.apache.org/confluence/display/NIFI/Configuration+Management+of+Flows)
+
+
 
 ### Building processors / Additional processors
 
