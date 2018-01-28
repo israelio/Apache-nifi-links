@@ -3,6 +3,8 @@ Following is a set of links that i've gather while evaluating NiFi as an ETL too
 
 The first place to look for NiFi info would probably be [awesome-nifi](https://github.com/jfrazee/awesome-nifi) but if you didnt find what you are looking for there... here is my additional personal list of links.
 
+[nifi git repo](https://github.com/apache/nifi)
+
 ## Documentation
 
 [Official Getting Started with Apache NiFi](https://nifi.apache.org/docs/nifi-docs/html/getting-started.html)
@@ -14,6 +16,14 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 [Awesome NiFi List](https://dzone.com/articles/apache-nifi-10-cheatsheet)
 
 [Getting Started with Apache Nifi](http://www.nifi.rocks/getting-started-with-apache-nifi/)
+
+[Apache NiFi Development Quickstart](http://nifi.apache.org/quickstart.html)
+
+[Beginners guide to Apache NiFi flows](https://blog.autsoft.hu/beginners-guide-to-apache-nifi-flows/)
+
+[Moving data around with Apache NiFi](http://logicalgenetics.com/moving-data-around-with-apache-nifi/)
+
+[Data Distribution Patterns with Apache NiFi](https://www.slideshare.net/BryanBende/data-distribution-patterns-with-apache-nifi)
 
 ***
 ## Hortonworks guides
@@ -40,12 +50,12 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 
 [HortonWorks Apachi NiFi videos](https://hortonworks.com/apache/nifi/#section_5)
 
+[Hortonworks Community Connection](https://community.hortonworks.com/index.html)
+
 ***
 ## Articles
 
 [Leveraging Apache NiFi for Agile Dataflows](https://looker.com/blog/leveraging-apache-nifi-for-agile-dataflows)
-
-[Apache NiFi - Records and Schema Registries](https://bryanbende.com/development/2017/06/20/apache-nifi-records-and-schema-registries)
 
 [Introduction to NiFi with WebInterpret](http://tech.webinterpret.com/introduction-to-nifi-with-webinterpret/)
 
@@ -73,6 +83,34 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 
 [Apache NiFi Flow Demo](http://www.nifidesigns.com/#nextbus)
 
+[How Do I Distribute Data Across an Apache NiFi Cluster](https://community.hortonworks.com/articles/16120/how-do-i-distribute-data-across-a-nifi-cluster.html)
+
+[NiFi Ranger based policy descriptions](https://community.hortonworks.com/articles/115770/nifi-ranger-based-policy-descriptions.html)
+
+[Apache NiFi 1.x Cheatsheet](https://dzone.com/articles/apache-nifi-10-cheatsheet)
+
+[nifi-notify-batch](http://ijokarumawak.github.io/nifi/2017/02/02/nifi-notify-batch/)
+
+[How to generate N FlowFiles and set the content of each FlowFile according to the data in Elastic?](https://stackoverflow.com/questions/46100631/how-to-generate-n-flowfiles-and-set-the-content-of-each-flowfile-according-to-th)
+
+[Apache NiFi - Processing Multi-line Logs](https://bryanbende.com/development/2017/10/04/apache-nifi-processing-multiline-logs)
+
+## Records
+
+[Apache NiFi - Records and Schema Registries](https://bryanbende.com/development/2017/06/20/apache-nifi-records-and-schema-registries)
+
+[Convert CSV to JSON, Avro, XML using ConvertRecord](https://community.hortonworks.com/articles/115311/convert-csv-to-json-avro-xml-using-convertrecord-p.html)
+
+## Process Groups
+
+[Introduction into Process Group Variables](https://community.hortonworks.com/articles/155823/introduction-into-process-group-variables.html)
+
+[NiFi - Understanding how to use Process Groups and Remote Process Groups](https://community.hortonworks.com/articles/16461/nifi-understanding-how-to-use-process-groups-and-r.html)
+
+[debugging workflow in nifi processor group](https://community.hortonworks.com/questions/63101/debugging-workflow-in-nifi-processor-group.html)
+
+[Simple Tasks in NiFi – Turning Flows into Groups](https://kisstechdocs.wordpress.com/2015/01/15/simple-tasks-in-nifi-turning-flows-into-groups/)
+
 ***
 ## Json support
 
@@ -82,6 +120,12 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 
 [Complex JSON Transformation with Jolt](https://community.hortonworks.com/idea/2150/complext-json-transformation-with-jolt.html)
 
+[how i extract attribute from json file using nifi](https://community.hortonworks.com/questions/21011/how-i-extract-attribute-from-json-file-using-nifi.html)
+
+[Merge json events based on property](https://community.hortonworks.com/questions/50583/merge-json-events-based-on-property-and-export-the.html)
+
+[Nifi Merge Json Files Then Turn into JsonArray](https://stackoverflow.com/questions/46979529/nifi-merge-json-files-then-turn-into-jsonarray)
+
 ### Jolt
 
 In order to work with Jolt Json Transformation processor you should be familier with Jolt syntax
@@ -89,6 +133,24 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [Jolt main page](http://bazaarvoice.github.io/jolt/)
 
 [Jolt Transform Demo](http://jolt-demo.appspot.com/#inception) is a great assistance to check your Jolt expressions
+
+### Grok
+
+[Logstash grok filter help - fixed position file](https://stackoverflow.com/questions/25837782/logstash-grok-filter-help-fixed-position-file)
+
+[Intro to grok](https://www.elastic.co/guide/en/elasticsearch/reference/master/grok-processor.html)
+
+[ExtractGrok.java](https://github.com/apache/nifi/blob/f04ddcf44294db64738cb7505c488b83d52c9135/nifi-nar-bundles/nifi-standard-bundle/nifi-standard-processors/src/main/java/org/apache/nifi/processors/standard/ExtractGrok.java)
+
+### Json Path
+
+[Json Path Tester](http://jsonpath.com/?)
+
+[Json Path Evaluator](https://jsonpath.herokuapp.com/)
+
+[Intro to JsonPath](https://www.pluralsight.com/blog/tutorials/introduction-to-jsonpath)
+
+[Unable to return a scalar value for the expression from NIFI EvaluateJsonPath processor](https://community.hortonworks.com/questions/108123/unable-to-return-a-scalar-value-for-the-expression.html)
 
 ***
 ## Solutions
@@ -137,7 +199,15 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Configuration Management of Flows](https://cwiki.apache.org/confluence/display/NIFI/Configuration+Management+of+Flows)
 
+[automating NIFI template deployment](https://stackoverflow.com/questions/42311176/automating-nifi-template-deployment)
 
+[Post a NIFI template via REST?](https://stackoverflow.com/questions/38446620/post-a-nifi-template-via-rest?rq=1)
+
+[NiFi Deploy Process Group](https://github.com/ijokarumawak/nifi-deploy-process-group)
+
+[Hortonworks HDF - Apache Nifi - how to deploy a flow from dev environment to production environment](https://community.hortonworks.com/questions/64302/hortonworks-hdf-apache-nifi-how-to-deploy-a-flow-f.html)
+
+[Testing automation, Deployment in NiFi](http://apache-nifi-developer-list.39713.n7.nabble.com/Testing-automation-Deployment-in-NiFi-td14939.html)
 
 ### Building processors / Additional processors
 
@@ -173,6 +243,8 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [nifi-msgpack-bundle](https://github.com/jfrazee/nifi-msgpack-bundle)
 
+[nifi-compose-bundle](https://github.com/compose-ex/nifi-compose-bundle)
+
 ### Using NiFi api
 
 [Creating NiFi Template via Rest API](https://community.hortonworks.com/articles/87160/creating-nifi-template-via-rest-api.html)
@@ -180,6 +252,10 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [Post a NIFI template via REST](https://stackoverflow.com/questions/38446620/post-a-nifi-template-via-rest)
 
 [Nifipi Ruby wrapper](https://github.com/SebastianCarroll/nifi-api)
+
+[How can find a nifi process group id by Nifi rest api](https://community.hortonworks.com/questions/114386/how-can-find-a-nifi-process-group-id-by-nifi-rest.html)
+
+[api example](http://localhost:8080/nifi-api/flow/process-groups/root/status?recursive=true)
 
 ### Learning Nifi
 
@@ -194,6 +270,10 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [HortonWorks nifi templates](https://github.com/hortonworks-gallery/nifi-templates)
 
 [SQL-to-CSV_ExecuteScript](https://gist.github.com/mattyb149/9945663ae9ae5dcb1ddb43d21553204d)
+
+[JSON_Array_to_String_List](https://gist.github.com/ijokarumawak/bd37690ee8aa0bf8e9e2a47cf064e0d4)
+
+[nifi-streaming-examples](https://github.com/bbende/nifi-streaming-examples)
 
 ## NiFi blogs
 
@@ -210,6 +290,20 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [pierre villard](https://pierrevillard.com/)
 
 [richards technotes](https://richardstechnotes.wordpress.com/category/apache-nifi/)
+
+### OAuth
+
+[OAuth test server](http://term.ie/oauth/example/)
+
+[OAuth 2 Authorization support - Client Credentials Grant](https://issues.apache.org/jira/browse/NIFI-4246)
+
+[Apache NiFi - Authentication with OpenID Connect](https://bryanbende.com/development/2017/10/03/apache-nifi-openid-connect)
+
+[NiFi and OAuth 2.0 to request WordPress API](https://pierrevillard.com/2017/01/31/nifi-and-oauth-2-0-to-request-wordpress-api/
+### Schema Registry
+
+[Registry](https://github.com/jdye64/registry)
+
 
 
 
