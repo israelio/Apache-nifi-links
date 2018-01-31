@@ -52,6 +52,10 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 
 [Hortonworks Community Connection](https://community.hortonworks.com/index.html)
 
+[Additional resourses - videos](https://hortonworks.com/apache/nifi/#section_5)
+
+[Hortonworks Technical Workshop: Hortonworks DataFlow - Apache NiFi](https://hortonworks.com/webinar/hortonworks-technical-workshop-hortonworks-dataflow-apache-nifi/)
+
 ***
 ## Articles
 
@@ -126,6 +130,12 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 
 [Nifi Merge Json Files Then Turn into JsonArray](https://stackoverflow.com/questions/46979529/nifi-merge-json-files-then-turn-into-jsonarray)
 
+[Best approach to re merging flowfiles in NiFi](https://community.hortonworks.com/questions/99522/best-approach-to-re-merging-flowfiles-in-nifi.html)
+
+[Nifi Merge Json Files Then Turn into JsonArray](https://stackoverflow.com/questions/46979529/nifi-merge-json-files-then-turn-into-jsonarray)
+
+[Combining Attributes in NiFi](https://community.hortonworks.com/questions/77046/combining-attributes-in-nifi.html)
+
 ### Jolt
 
 In order to work with Jolt Json Transformation processor you should be familier with Jolt syntax
@@ -133,6 +143,22 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [Jolt main page](http://bazaarvoice.github.io/jolt/)
 
 [Jolt Transform Demo](http://jolt-demo.appspot.com/#inception) is a great assistance to check your Jolt expressions
+
+[Getting Started](https://github.com/bazaarvoice/jolt/blob/master/gettingStarted.md)
+
+[Jolt Example](http://codegist.net/code/jolt-example/)
+
+### Unit Tests
+
+[Developing a Custom Apache Nifi Processor-Unit Tests (Part I)](http://www.nifi.rocks/developing-a-custom-apache-nifi-processor-unit-tests-partI/)
+
+### Data Aggregation
+
+[Add processor to perform simple aggregations](https://issues.apache.org/jira/browse/NIFI-2735?src=confmacro)
+
+[Data aggregation in Apache Nifi](http://stackoverflow.link/question/40646654/data-aggregation-in-apache-nifi)
+
+[
 
 ### Grok
 
@@ -209,6 +235,8 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Testing automation, Deployment in NiFi](http://apache-nifi-developer-list.39713.n7.nabble.com/Testing-automation-Deployment-in-NiFi-td14939.html)
 
+[Upload a NiFi template via nifi-api](Upload a NiFi template via nifi-api)
+
 ### Building processors / Additional processors
 
 [nifi-network-processor](https://github.com/abajwa-hw/nifi-network-processor)
@@ -244,6 +272,26 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [nifi-msgpack-bundle](https://github.com/jfrazee/nifi-msgpack-bundle)
 
 [nifi-compose-bundle](https://github.com/compose-ex/nifi-compose-bundle)
+
+[Custom Processors for Apache NiFi](https://bryanbende.com/development/2015/02/04/custom-processors-for-apache-nifi)
+
+[Developing A Custom Apache Nifi Processor (JSON)](http://www.nifi.rocks/developing-a-custom-apache-nifi-processor-json/)
+
+### Records
+
+[Record-Oriented Data with NiFi](https://blogs.apache.org/nifi/entry/record-oriented-data-with-nifi)
+
+[NiFI for Apache - the flow using records and registry](http://www.youritgoeslinux.com/impl/bigdata/nifi/apacherec)
+
+[Record based processors in Apache NiFi 1.2](https://community.hortonworks.com/articles/102183/record-based-processors-in-apache-nifi-12.html)
+
+[Apache NiFi Record Processing](https://www.slideshare.net/BryanBende/apache-nifi-record-processing)
+
+[Better Together: NiFi, Schema Registry and Streaming Analytics Manager (Part 1. NiFi and Schema Registry)](https://community.hortonworks.com/articles/134906/better-together-nifi-schema-registry-and-streaming.html)
+
+[hortonworks/registry](https://github.com/hortonworks/registry/releases)
+
+[HWX Schema Registry User Guide](https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.3/bk_schema-registry-user-guide/content/ch_integrating-schema-registry.html)
 
 ### Using NiFi api
 
@@ -303,6 +351,10 @@ In order to work with Jolt Json Transformation processor you should be familier 
 ### Schema Registry
 
 [Registry](https://github.com/jdye64/registry)
+
+[schema-registry-examples](https://github.com/jfrazee/schema-registry-examples)
+
+
 
 
 
