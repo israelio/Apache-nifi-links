@@ -1,4 +1,4 @@
-# Apach-nifi-links
+# Apache-nifi-links
 Following is a set of links that i've gather while evaluating NiFi as an ETL tool.
 
 The first place to look for NiFi info would probably be [awesome-nifi](https://github.com/jfrazee/awesome-nifi) but if you didnt find what you are looking for there... here is my additional personal list of links.
