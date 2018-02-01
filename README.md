@@ -7,6 +7,8 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 
 ## Documentation
 
+[Nifi notes - greaat overview with lots of gathered knowladge](http://www.javahotchocolate.com/notes/nifi.html)
+
 [Official Getting Started with Apache NiFi](https://nifi.apache.org/docs/nifi-docs/html/getting-started.html)
 
 [Apache NiFi Expression Language Guide](https://nifi.apache.org/docs/nifi-docs/html/expression-language-guide.html)
@@ -24,6 +26,8 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 [Moving data around with Apache NiFi](http://logicalgenetics.com/moving-data-around-with-apache-nifi/)
 
 [Data Distribution Patterns with Apache NiFi](https://www.slideshare.net/BryanBende/data-distribution-patterns-with-apache-nifi)
+
+[Standard Nifi Processors and Controller Services](https://healthservices.atlassian.net/wiki/spaces/WGS/pages/38633598/Standard+Nifi+Processors+and+Controller+Services)
 
 ***
 ## Hortonworks guides
@@ -190,6 +194,7 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [NiFi example on how to join CSV files to create a merged result](https://gist.github.com/ijokarumawak/7e20af1cd222fb2adf13acb2b0f46aed)
 
+[healthservices nifi solution](https://healthservices.atlassian.net/wiki/spaces/WGS/pages/38633602/Alerting+Interface+Analysis+and+Design)
 
 ***
 ## Development
@@ -277,6 +282,20 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Developing A Custom Apache Nifi Processor (JSON)](http://www.nifi.rocks/developing-a-custom-apache-nifi-processor-json/)
 
+[Salesforce processors](https://github.com/jdye64/nifi-addons/tree/master/Processors/nifi-salesforce)
+
+[How to invoke remote rest service in InvokeHttp nifi processor?](https://stackoverflow.com/questions/45571364/how-to-invoke-remote-rest-service-in-invokehttp-nifi-processor)
+
+[Integrating Solace with NiFi JMS Processor](https://solacelabs.github.io/solace-integration-guides/nifi-jms-jndi/)
+
+
+### building custom services
+
+[Custom Controller Service Debugging](http://apache-nifi-developer-list.39713.n7.nabble.com/Custom-Controller-Service-Debugging-td2465.html)
+
+[nifi-dependency-example](https://github.com/bbende/nifi-dependency-example)
+
+
 ### Records
 
 [Record-Oriented Data with NiFi](https://blogs.apache.org/nifi/entry/record-oriented-data-with-nifi)
@@ -292,6 +311,8 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [hortonworks/registry](https://github.com/hortonworks/registry/releases)
 
 [HWX Schema Registry User Guide](https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.3/bk_schema-registry-user-guide/content/ch_integrating-schema-registry.html)
+
+[InvokeScriptedProcessor template revisited (with Jython)](http://funnifi.blogspot.co.il/2017/11/invokescriptedprocessor-template.html)
 
 ### Using NiFi api
 
@@ -348,6 +369,13 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [Apache NiFi - Authentication with OpenID Connect](https://bryanbende.com/development/2017/10/03/apache-nifi-openid-connect)
 
 [NiFi and OAuth 2.0 to request WordPress API](https://pierrevillard.com/2017/01/31/nifi-and-oauth-2-0-to-request-wordpress-api/
+
+[OAuth 1.0A with Apache NiFi (Twitter API example)](https://pierrevillard.com/2016/04/12/oauth-1-0a-with-apache-nifi-twitter-api-example/)
+
+[Simple OAuth library for Java](https://github.com/scribejava/scribejava)
+
+[Getting Started with scribejava](https://github.com/scribejava/scribejava/wiki/getting-started)
+
 ### Schema Registry
 
 [Registry](https://github.com/jdye64/registry)
