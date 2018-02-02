@@ -29,6 +29,8 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 
 [Standard Nifi Processors and Controller Services](https://healthservices.atlassian.net/wiki/spaces/WGS/pages/38633598/Standard+Nifi+Processors+and+Controller+Services)
 
+[Syncfusion Data Integration Platform](https://help.syncfusion.com/data-integration/overview)
+
 ***
 ## Hortonworks guides
 
@@ -195,6 +197,13 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [NiFi example on how to join CSV files to create a merged result](https://gist.github.com/ijokarumawak/7e20af1cd222fb2adf13acb2b0f46aed)
 
 [healthservices nifi solution](https://healthservices.atlassian.net/wiki/spaces/WGS/pages/38633602/Alerting+Interface+Analysis+and+Design)
+
+[MP3 Jukebox with NIFI 1.x](https://community.hortonworks.com/articles/65239/mp3-jukebox-with-nifi-1x.html)
+
+[NIFI 1.x For Automatic Music Playing Pipelines](https://community.hortonworks.com/content/kbentry/65154/nifi-1x-for-automatic-music-playing-pipelines.html)
+
+[Adding A Custom Processor to NiFi : LinkProcessor](https://community.hortonworks.com/articles/73355/adding-a-custom-processor-to-nifi-linkprocessor.html)
+
 
 ***
 ## Development
