@@ -392,7 +392,9 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [schema-registry-examples](https://github.com/jfrazee/schema-registry-examples)
 
 
+### Maven
 
+[Maven Projects for Extensions](https://cwiki.apache.org/confluence/display/NIFI/Maven+Projects+for+Extensions#MavenProjectsforExtensions-LinkingProcessorsandControllerServices)
 
 
 
