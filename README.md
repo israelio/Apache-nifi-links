@@ -391,6 +391,11 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [schema-registry-examples](https://github.com/jfrazee/schema-registry-examples)
 
+### NiFi Registry
+
+[Apache NiFi Registry User Guide](https://nifi.apache.org/docs/nifi-registry-docs/index.html)
+
+
 
 ### Maven
 
