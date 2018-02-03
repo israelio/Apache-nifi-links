@@ -31,6 +31,8 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 
 [Syncfusion Data Integration Platform](https://help.syncfusion.com/data-integration/overview)
 
+[Apache NiFi Not From Scratch](https://stampedecon.com/blog/2016/06/01/apache-nifi-not-from-scratch/)
+
 ***
 ## Hortonworks guides
 
@@ -154,6 +156,10 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Jolt Example](http://codegist.net/code/jolt-example/)
 
+[Transforming a Array into Array with pairs](https://github.com/bazaarvoice/jolt/issues/358)
+
+[Apache NiFi Split JSON root array](https://stackoverflow.com/questions/36065702/apache-nifi-split-json-root-array)
+
 ### Unit Tests
 
 [Developing a Custom Apache Nifi Processor-Unit Tests (Part I)](http://www.nifi.rocks/developing-a-custom-apache-nifi-processor-unit-tests-partI/)
@@ -164,7 +170,7 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Data aggregation in Apache Nifi](http://stackoverflow.link/question/40646654/data-aggregation-in-apache-nifi)
 
-[
+[Create a general purpose Aggregating processor](https://issues.apache.org/jira/browse/NIFI-1926)
 
 ### Grok
 
@@ -183,6 +189,8 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [Intro to JsonPath](https://www.pluralsight.com/blog/tutorials/introduction-to-jsonpath)
 
 [Unable to return a scalar value for the expression from NIFI EvaluateJsonPath processor](https://community.hortonworks.com/questions/108123/unable-to-return-a-scalar-value-for-the-expression.html)
+
+[how i extract attribute from json file using nifi](https://community.hortonworks.com/questions/21011/how-i-extract-attribute-from-json-file-using-nifi.html)
 
 ***
 ## Solutions
@@ -304,6 +312,8 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [nifi-dependency-example](https://github.com/bbende/nifi-dependency-example)
 
+[Developing a Custom Apache Nifi Controller Service](http://www.nifi.rocks/developing-a-custom-apache-nifi-controller-service/)
+
 
 ### Records
 
@@ -353,6 +363,9 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [nifi-streaming-examples](https://github.com/bbende/nifi-streaming-examples)
 
+[kylo data transformation templates](https://github.com/Teradata/kylo/tree/master/samples/templates/nifi-1.0)
+
+
 ## NiFi blogs
 
 [Apache NiFi official blog](https://blogs.apache.org/nifi/)
@@ -400,6 +413,49 @@ In order to work with Jolt Json Transformation processor you should be familier 
 ### Maven
 
 [Maven Projects for Extensions](https://cwiki.apache.org/confluence/display/NIFI/Maven+Projects+for+Extensions#MavenProjectsforExtensions-LinkingProcessorsandControllerServices)
+
+### Rest
+
+[How to invoke remote rest service in InvokeHttp nifi processor?](https://stackoverflow.com/questions/45571364/how-to-invoke-remote-rest-service-in-invokehttp-nifi-processor)
+
+[NiFi and HTTP Post Configuration](http://www.tomaszezula.com/2016/10/30/nifi-and-http-post-configuration/)
+
+[Post HTTP Attributes to Send as HTTP Headers (Regex)](https://community.hortonworks.com/questions/68426/post-http-attributes-to-send-as-http-headers-regex.html)
+
+
+
+### Detect dedup
+
+[Detect duplicate based on 2 attributes per second: NIFI](https://community.hortonworks.com/questions/152038/detect-duplicate-based-on-2-attributes-per-second.html)
+
+[Inspecting your NiFi DistributedMapCacheServer with Groovy](http://funnifi.blogspot.co.il/2016/04/inspecting-your-nifi.html)
+
+[DistributedMapCacheClient Groovy example](http://apache-nifi-developer-list.39713.n7.nabble.com/DistributedMapCacheClient-Groovy-example-td12800.html)
+
+### SSL
+
+[Creating a SSL context Nifi](https://community.hortonworks.com/questions/19476/connecting-to-facebook-graph-api-using-nifi-postht.html)
+
+[Connecting to DataSift HTTPS API using NiFi GetHTTP](https://community.hortonworks.com/questions/9509/connecting-to-datasift-https-api-using-nifi.html)
+
+[Configuring Apache NiFi SSL Authentication](https://www.batchiq.com/nifi-configuring-ssl-auth.html)
+
+[HTTPS Endpoint in NiFi Flow](https://community.hortonworks.com/articles/27033/https-endpoint-in-nifi-flow.html)
+
+[Help with SSL Context Service for https post requests](http://apache-nifi-users-list.2361937.n4.nabble.com/Help-with-SSL-Context-Service-for-https-post-requests-td3671.html)
+
+[Using SSL with NiFi](http://www.tomaszezula.com/2016/11/06/using-ssl-with-nifi/)
+
+### Merge
+
+[Nifi- MergeContent processor- Mergestrategy](https://stackoverflow.com/questions/48170698/nifi-mergecontent-processor-mergestrategy)
+
+### Nifi Automation
+
+[Nifi Stop all Processors from Shell](https://stackoverflow.com/questions/48418697/nifi-stop-all-processors-from-shell/48433465#48433465)
+
+[Nipyapi documentation](https://media.readthedocs.org/pdf/nipyapi/latest/nipyapi.pdf)
+
 
 
 
