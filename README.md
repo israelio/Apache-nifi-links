@@ -7,6 +7,14 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 
 ## Documentation
 
+[Apache nifi Mailing Lists](https://nifi.apache.org/mailing_lists.html)
+
+[Intro to apache nifi](https://hortonworks.com/blog/introduction-apache-nifi/)
+
+[Apache NIFI for dummies](http://media.wiley.com/assets/7366/43/Apache_NiFi_For_Dummies_Attunity_Hortonworks_Spe_Ed.pdf)
+
+[Apache NiFi In Depth](https://nifi.apache.org/docs/nifi-docs/html/nifi-in-depth.html#repositories)
+
 [Nifi notes - greaat overview with lots of gathered knowladge](http://www.javahotchocolate.com/notes/nifi.html)
 
 [Official Getting Started with Apache NiFi](https://nifi.apache.org/docs/nifi-docs/html/getting-started.html)
@@ -32,6 +40,17 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 [Syncfusion Data Integration Platform](https://help.syncfusion.com/data-integration/overview)
 
 [Apache NiFi Not From Scratch](https://stampedecon.com/blog/2016/06/01/apache-nifi-not-from-scratch/)
+
+[Apache NiFi Developer List](http://apache-nifi-developer-list.39713.n7.nabble.com/template/NamlServlet.jtp?macro=search_page&node=1&query=service+api&days=0)
+
+[The Mine of Information](http://moi.vonos.net/bigdata/nifi/)
+
+[Medium](https://medium.com/@xenonstack/data-ingestion-using-apache-nifi-for-building-data-lake-using-twitter-data-1f3d3da6fe1d)
+
+[What is Apache NiFi?](https://kisstechdocs.wordpress.com/2015/01/15/what-is-apache-nifi/)
+
+[INTRODUCTION TO APACHE NIFI](https://hortonworks.com/blog/introduction-apache-nifi/)
+
 
 ***
 ## Hortonworks guides
@@ -107,11 +126,17 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 
 [Apache NiFi - Processing Multi-line Logs](https://bryanbende.com/development/2017/10/04/apache-nifi-processing-multiline-logs)
 
+[Multiple Versions of the Same Extension](https://cwiki.apache.org/confluence/display/NIFI/Multiple+Versions+of+the+Same+Extension)
+
+
+
 ## Records
 
 [Apache NiFi - Records and Schema Registries](https://bryanbende.com/development/2017/06/20/apache-nifi-records-and-schema-registries)
 
 [Convert CSV to JSON, Avro, XML using ConvertRecord](https://community.hortonworks.com/articles/115311/convert-csv-to-json-avro-xml-using-convertrecord-p.html)
+
+[arsing Apache NiFi Records to HBase](https://dzone.com/articles/parsing-apache-nifi-records-with-apache-nifi-to-hb?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fbig-data)
 
 ## Process Groups
 
@@ -143,6 +168,9 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 [Nifi Merge Json Files Then Turn into JsonArray](https://stackoverflow.com/questions/46979529/nifi-merge-json-files-then-turn-into-jsonarray)
 
 [Combining Attributes in NiFi](https://community.hortonworks.com/questions/77046/combining-attributes-in-nifi.html)
+
+[nifi-examples - json processor](https://github.com/pcgrenier/nifi-examples/blob/master/src/main/java/rocks/nifi/examples/processors/JsonProcessor.java)
+
 
 ### Jolt
 
@@ -305,6 +333,22 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Integrating Solace with NiFi JMS Processor](https://solacelabs.github.io/solace-integration-guides/nifi-jms-jndi/)
 
+[Writing a custom NiFi Processor](http://www.tomaszezula.com/2016/11/20/writing-a-custom-nifi-processor/)
+
+[NiFiByExample - post http with json body](https://github.com/zezutom/NiFiByExample/blob/master/nifi-processors/src/main/java/org/zezutom/processors/nifi/example/PostHTTPWithJsonBody.java)
+
+[Setting up for custom NiFi processor development](https://richardstechnotes.wordpress.com/2015/12/06/setting-up-for-custom-nifi-processor-development/)
+
+[Apache NIFI Custom Processor Design](https://healthservices.atlassian.net/wiki/spaces/WGS/pages/38633555/Apache+NIFI+Custom+Processor+Design)
+
+[NiFi origin processor name or id as attribute](https://community.hortonworks.com/questions/110879/nifi-origin-processor-name-or-id-as-attribute.html)
+
+[Custom Processors for Apache NiFi](https://bryanbende.com/development/2015/02/04/custom-processors-for-apache-nifi)
+
+[Custom processor extended GenerateTableFetch](https://community.hortonworks.com/questions/109854/custom-processor-extended-generatetablefetch.html)
+
+[Nifi Custom processor exception](https://stackoverflow.com/questions/35623082/nifi-custom-processor-exception)
+
 
 ### building custom services
 
@@ -314,6 +358,11 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Developing a Custom Apache Nifi Controller Service](http://www.nifi.rocks/developing-a-custom-apache-nifi-controller-service/)
 
+[Custom implementation of standard Controller Service interface](http://apache-nifi-users-list.2361937.n4.nabble.com/Custom-implementation-of-standard-Controller-Service-interface-td1414.html)
+
+[problems with custom controller services, and other comments](http://apache-nifi-developer-list.39713.n7.nabble.com/problems-with-custom-controller-services-and-other-comments-td14422.html)
+
+[Cross NAR Controller Services](http://apache-nifi-developer-list.39713.n7.nabble.com/Cross-NAR-Controller-Services-td8144.html)
 
 ### Records
 
@@ -414,6 +463,12 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Maven Projects for Extensions](https://cwiki.apache.org/confluence/display/NIFI/Maven+Projects+for+Extensions#MavenProjectsforExtensions-LinkingProcessorsandControllerServices)
 
+[Apache Nifi failure due to java.lang.NoClassDefFoundError in a local maven dependency jar.](https://stackoverflow.com/questions/35354877/apache-nifi-failure-due-to-java-lang-noclassdeffounderror-in-a-local-maven-depen)
+
+[Maven 2 assembly with dependencies: jar under scope “system” not included](https://stackoverflow.com/questions/2065928/maven-2-assembly-with-dependencies-jar-under-scope-system-not-included)
+
+
+
 ### Rest
 
 [How to invoke remote rest service in InvokeHttp nifi processor?](https://stackoverflow.com/questions/45571364/how-to-invoke-remote-rest-service-in-invokehttp-nifi-processor)
@@ -422,7 +477,7 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Post HTTP Attributes to Send as HTTP Headers (Regex)](https://community.hortonworks.com/questions/68426/post-http-attributes-to-send-as-http-headers-regex.html)
 
-
+[HTTP communication with Apache NiFi](https://ddewaele.github.io/http-communication-with-apache-nifi/)
 
 ### Detect dedup
 
@@ -454,9 +509,120 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Nifi Stop all Processors from Shell](https://stackoverflow.com/questions/48418697/nifi-stop-all-processors-from-shell/48433465#48433465)
 
+[NiPyApi](https://github.com/Chaffelson/nipyapi)
+
+[NiPyApi doc](Welcome to Nipyapi’s documentation!)
+
 [Nipyapi documentation](https://media.readthedocs.org/pdf/nipyapi/latest/nipyapi.pdf)
 
+[NIFI - How to set properties of a Processor through java api?](https://community.hortonworks.com/questions/29872/nifi-how-to-set-properties-of-a-processor-through.html)
 
+[Programmatically adding processors](http://apache-nifi-developer-list.39713.n7.nabble.com/Programmatically-adding-processors-td17866.html)
+
+### Cluster
+
+[nifi-service-clustered](https://libraries.io/github/abajwa-hw/nifi-service-clustered)
+
+
+### NAR
+
+[NiFi NAR Files Explained](https://medium.com/hashmapinc/nifi-nar-files-explained-14113f7796fd)
+
+### Other
+
+[Is possible to write an attribute into a file and also keep the original flow file?](https://community.hortonworks.com/questions/104533/is-possible-to-write-an-attribute-into-a-file-and.html)
+
+[Halecium - A Next Generation of NiFi](https://www.linkedin.com/pulse/halecium-next-generation-nifi-daniel-cave/)
+
+### Class loader
+
+[Apache NiFi - Class Loading](https://bryanbende.com/development/2016/11/24/apache-nifi-class-loading)
+
+[Inspecting the NAR classloading hierarchy](http://funnifi.blogspot.co.il/2017/01/inspecting-nar-classloading-hierarchy.html)
+
+### Extend std processors
+
+[nifi 1.0.0 - extend the behaviour of a standard processor](https://stackoverflow.com/questions/39425990/nifi-1-0-0-extend-the-behaviour-of-a-standard-processor)
+
+[Duplicated processors when using nifi processors dependency](http://apache-nifi-developer-list.39713.n7.nabble.com/Duplicated-processors-when-using-nifi-processors-dependency-td15902.html)
+
+[nifi 1.0 extending a standard processor](http://apache-nifi-developer-list.39713.n7.nabble.com/nifi-1-0-extending-a-standard-processor-td13306.html)
+
+### Testing
+
+[Faster way of developing and Testing new Nifi Processor](https://stackoverflow.com/questions/44748548/faster-way-of-developing-and-testing-new-nifi-processor)
+
+### Execute scripts
+
+[ExecuteScript - Using Modules](http://funnifi.blogspot.co.il/2016/02/executescript-using-modules.html)
+
+
+### ci cd
+
+[Configuration Management of Flows](https://cwiki.apache.org/confluence/display/NIFI/Configuration+Management+of+Flows)
+
+[Extension Repositories (aka Extension Registry) for Dynamically-loaded Extensions](https://cwiki.apache.org/confluence/display/NIFI/Extension+Repositories+%28aka+Extension+Registry%29+for+Dynamically-loaded+Extensions)
+
+[Apache NiFi - Component Versioning](https://bryanbende.com/development/2017/05/10/apache-nifi-1-2-0-component-versioning)
+
+[Change NiFi Flow Using Rest API - Part 1](https://community.hortonworks.com/articles/87217/change-nifi-flow-using-rest-api-part-1.html)
+
+[Creating NiFi Template via Rest API](https://community.hortonworks.com/content/kbentry/87160/creating-nifi-template-via-rest-api.html)
+
+[Versioned DataFlows with Apache NiFi 1.5 and Apache NiFi Registry 0.1.0](https://community.hortonworks.com/content/kbentry/166802/versioned-dataflows-with-apache-nifi-15-and-apache.html)
+
+[Apache NiFi - How do I deploy my flow?](https://bryanbende.com/development/2018/01/19/apache-nifi-how-do-i-deploy-my-flow)
+
+[New Features in Apache NiFi 1.5: Registry and Version Control](https://dzone.com/articles/new-features-in-apache-nifi-15-apache-nifi-registr)
+
+[FDLC: towards Flow Development Life Cycle with NiFi registries](https://medium.com/@abdelkrim.hadjidj/fdlc-towards-flow-development-life-cycle-with-nifi-registries-82e1ee866fab)
+
+[Installing registry video](https://www.youtube.com/watch?v=X_qhRVChjZY&feature=youtu.be)
+
+[Development Life Cycle for Apache NiFi](https://stackoverflow.com/questions/37932421/development-life-cycle-for-apache-nifi)
+
+[NiPyAPI - NiFi Python API - A convenient Python wrapper for Apache NiFi Automation and SDLC / CICD](https://community.hortonworks.com/repos/170005/nifi-python-api-a-convenient-python-wrapper-for-ap.html)
+
+[NiFi SDLC Automation in Python with NiPyApi - Part 1](https://community.hortonworks.com/articles/167364/nifi-sdlc-automation-in-python-with-nipyapi-part-1.html)
+
+[Nifi Stop all Processors from Shell](https://stackoverflow.com/questions/48418697/nifi-stop-all-processors-from-shell)
+
+[Nifi Stop all Processors from Shell](https://stackoverflow.com/questions/48418697/nifi-stop-all-processors-from-shell/48433465#48433465)
+
+
+### env configuration
+
+[Is there a fix for the “Too many open files in system” error on OS X 10.7.1?](https://superuser.com/questions/433746/is-there-a-fix-for-the-too-many-open-files-in-system-error-on-os-x-10-7-1)
+
+[HOW TO SET JAVA_HOME ON MAC OS X](http://www.sajeconsultants.com/how-to-set-java_home-on-mac-os-x/)
+
+### other tools
+
+[AWS Glue](https://www.youtube.com/watch?v=4N_ktE4NFIk&feature=youtu.be)
+
+[BatchIQ](https://www.batchiq.com/)
+
+[Difference between Apache NiFi and StreamSets](https://stackoverflow.com/questions/36899612/difference-between-apache-nifi-and-streamsets)
+
+
+
+### Twitter folks related to nifi
+
+[Bryan Bende](https://twitter.com/bbende)
+
+[Matt Burgess](https://twitter.com/mattyb149)
+
+[Milo Simpson](https://github.com/milosimpson)
+
+### Interesting use cases
+
+[ANALYZE TRANSIT PATTERNS WITH APACHE NIFI](https://es.hortonworks.com/tutorial/analyze-transit-patterns-with-apache-nifi/)
+
+[Apache NiFi: Bonnes pratiques et retours d'expérience](https://www.meetup.com/fr-FR/futureofdata-paris/events/245994331/)
+
+### IOT
+
+[Secure IoT Command,Control, and Exfil with Apache MiNiFi](file:///Users/ohad/Downloads/slides.pdf) [code](https://github.com/alopresto/slides/blob/master/openiot2017/slides.pdf)
 
 
 
