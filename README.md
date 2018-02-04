@@ -688,3 +688,4 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Configuration Management of Flows](https://cwiki.apache.org/confluence/display/NIFI/Configuration+Management+of+Flows)
 
+[Apache nifi with Elasticsearch experiment](https://blog.qfdk.me/post/2016-12-12)
