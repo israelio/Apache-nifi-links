@@ -540,6 +540,8 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Inspecting the NAR classloading hierarchy](http://funnifi.blogspot.co.il/2017/01/inspecting-nar-classloading-hierarchy.html)
 
+[Per-Instance ClassLoading](https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.3/bk_developer-guide/content/per-instance-classloading.html)
+
 ### Extend std processors
 
 [nifi 1.0.0 - extend the behaviour of a standard processor](https://stackoverflow.com/questions/39425990/nifi-1-0-0-extend-the-behaviour-of-a-standard-processor)
