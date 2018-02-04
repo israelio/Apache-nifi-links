@@ -7,6 +7,10 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 
 ## Documentation
 
+[Nifi notes - greaat overview with lots of gathered knowladge](http://www.javahotchocolate.com/notes/nifi.html)
+
+[NiFi Developer’s Guide](https://nifi.apache.org/docs/nifi-docs/html/developer-guide.html#split-content-one-to-many)
+
 [Apache nifi Mailing Lists](https://nifi.apache.org/mailing_lists.html)
 
 [Intro to apache nifi](https://hortonworks.com/blog/introduction-apache-nifi/)
@@ -14,8 +18,6 @@ The first place to look for NiFi info would probably be [awesome-nifi](https://g
 [Apache NIFI for dummies](http://media.wiley.com/assets/7366/43/Apache_NiFi_For_Dummies_Attunity_Hortonworks_Spe_Ed.pdf)
 
 [Apache NiFi In Depth](https://nifi.apache.org/docs/nifi-docs/html/nifi-in-depth.html#repositories)
-
-[Nifi notes - greaat overview with lots of gathered knowladge](http://www.javahotchocolate.com/notes/nifi.html)
 
 [Official Getting Started with Apache NiFi](https://nifi.apache.org/docs/nifi-docs/html/getting-started.html)
 
@@ -349,6 +351,9 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Nifi Custom processor exception](https://stackoverflow.com/questions/35623082/nifi-custom-processor-exception)
 
+[nifi-sample-processor-bundle](https://github.com/apiri/nifi-sample-processor-bundle)
+
+[nifi-addons](https://github.com/jdye64/nifi-addons/tree/master/Processors)
 
 ### building custom services
 
@@ -363,6 +368,10 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [problems with custom controller services, and other comments](http://apache-nifi-developer-list.39713.n7.nabble.com/problems-with-custom-controller-services-and-other-comments-td14422.html)
 
 [Cross NAR Controller Services](http://apache-nifi-developer-list.39713.n7.nabble.com/Cross-NAR-Controller-Services-td8144.html)
+
+[How to access Controller Service created in UI into Root processors in NiFi-1.1.1?](https://stackoverflow.com/questions/42853055/how-to-access-controller-service-created-in-ui-into-root-processors-in-nifi-1-1)
+
+[Custom NiFi processor gets "ControllerServices may be referenced only via their interfaces" error.](https://community.hortonworks.com/questions/86171/custom-nifi-processor-gets-controllerservices-may.html)
 
 ### Records
 
@@ -414,6 +423,9 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [kylo data transformation templates](https://github.com/Teradata/kylo/tree/master/samples/templates/nifi-1.0)
 
+[6020-salesforce-oauth2-login-example.xml](https://community.hortonworks.com/storage/attachments/6020-salesforce-oauth2-login-example.xml)
+
+
 
 ## NiFi blogs
 
@@ -446,6 +458,20 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [Simple OAuth library for Java](https://github.com/scribejava/scribejava)
 
 [Getting Started with scribejava](https://github.com/scribejava/scribejava/wiki/getting-started)
+
+[Apache Nifi: use OAuth 2.0 to Access Google Analytics APIs](https://stackoverflow.com/questions/42820362/apache-nifi-use-oauth-2-0-to-access-google-analytics-apis)
+
+[How to set Twitter OAuth attributes to InvokeHttp processor for fetching twitter user profiles](https://community.hortonworks.com/questions/26999/how-to-set-twitter-oauth-attributes-to-invokehttp.html)
+
+[using GetHTTP for Salesforce Integration with OAuth2.0 authentication parameter](https://community.hortonworks.com/questions/46800/using-gethttp-for-salesforce-integration-with-oaut.html)
+
+[NIFI-4246 - Client Credentials Grant based OAuth2 Controller Service](https://github.com/apache/nifi/pull/2085)
+
+[Nifi Oauth Groovy](http://codegist.net/search/nifi%20oauth%20groovy/506)
+
+[Apache Nifi: use OAuth 2.0 to Access Google Analytics APIs](http://www.projsolution.com/a107-267896-rest)
+
+[Salesforce oauth template](http://codegists.com/code/nifi-template-example/)
 
 ### Schema Registry
 
@@ -487,6 +513,10 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [DistributedMapCacheClient Groovy example](http://apache-nifi-developer-list.39713.n7.nabble.com/DistributedMapCacheClient-Groovy-example-td12800.html)
 
+[How to pass credential to NiFi rest api](https://stackoverflow.com/questions/42827820/how-to-pass-credential-to-nifi-rest-api)
+
+[NiFi and HTTP Post Configuration](http://www.tomaszezula.com/2016/10/30/nifi-and-http-post-configuration/)
+
 ### SSL
 
 [Creating a SSL context Nifi](https://community.hortonworks.com/questions/19476/connecting-to-facebook-graph-api-using-nifi-postht.html)
@@ -519,10 +549,17 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Programmatically adding processors](http://apache-nifi-developer-list.39713.n7.nabble.com/Programmatically-adding-processors-td17866.html)
 
+[Developing a Custom Apache Nifi Processor-Unit Tests (Part I)](http://www.nifi.rocks/developing-a-custom-apache-nifi-processor-unit-tests-partI/)
+
+[Unit test failing for custom processor's 'optional' properties](https://community.hortonworks.com/questions/87136/unit-test-failing-for-custom-processors-optional-p.html)
+
+[Testing processor logging message in Junit tests](http://apache-nifi-developer-list.39713.n7.nabble.com/Testing-processor-logging-message-in-Junit-tests-td6127.html)
+
 ### Cluster
 
 [nifi-service-clustered](https://libraries.io/github/abajwa-hw/nifi-service-clustered)
 
+[Data Replication](https://cwiki.apache.org/confluence/display/NIFI/Data+Replication)
 
 ### NAR
 
@@ -606,8 +643,6 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Difference between Apache NiFi and StreamSets](https://stackoverflow.com/questions/36899612/difference-between-apache-nifi-and-streamsets)
 
-
-
 ### Twitter folks related to nifi
 
 [Bryan Bende](https://twitter.com/bbende)
@@ -621,6 +656,12 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [ANALYZE TRANSIT PATTERNS WITH APACHE NIFI](https://es.hortonworks.com/tutorial/analyze-transit-patterns-with-apache-nifi/)
 
 [Apache NiFi: Bonnes pratiques et retours d'expérience](https://www.meetup.com/fr-FR/futureofdata-paris/events/245994331/)
+
+[Google Vision & Apache NiFi - Making Advanced Computer Vision Feasible](https://community.hortonworks.com/articles/56484/google-vision-apache-nifi-making-advanced-computer.html)
+
+[Using Apache Nifi to Stream Live Twitter Feeds to Hadoop](https://nedsblog.com/2015/09/02/using-apache-nifi-to-stream-live-twitter-feeds-to-hadoop/)
+
+[Accessing Facebook Page Data from Apache NiFi 1.2](https://community.hortonworks.com/articles/47854/accessing-facebook-page-data-from-apache-nifi.html)
 
 ### IOT
 
