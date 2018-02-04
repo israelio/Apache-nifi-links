@@ -289,6 +289,8 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Upload a NiFi template via nifi-api](Upload a NiFi template via nifi-api)
 
+[NIFI Deployment Via API's](https://community.hortonworks.com/questions/150881/nifi-deployment-via-apis.html)
+
 ### Building processors / Additional processors
 
 [nifi-network-processor](https://github.com/abajwa-hw/nifi-network-processor)
