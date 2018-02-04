@@ -665,6 +665,8 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Accessing Facebook Page Data from Apache NiFi 1.2](https://community.hortonworks.com/articles/47854/accessing-facebook-page-data-from-apache-nifi.html)
 
+[IOT AND DATA SCIENCE – A TRUCKING DEMO ON DSX LOCAL WITH APACHE NIFI](https://hortonworks.com/blog/iot-data-science-trucking-demo-dsx-local-apache-nifi/)
+
 ### IOT
 
 [Secure IoT Command,Control, and Exfil with Apache MiNiFi](file:///Users/ohad/Downloads/slides.pdf) [code](https://github.com/alopresto/slides/blob/master/openiot2017/slides.pdf)
