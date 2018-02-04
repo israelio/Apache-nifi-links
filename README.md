@@ -645,6 +645,8 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Difference between Apache NiFi and StreamSets](https://stackoverflow.com/questions/36899612/difference-between-apache-nifi-and-streamsets)
 
+[list of etl tools](https://www.etltools.net/)
+
 ### Twitter folks related to nifi
 
 [Bryan Bende](https://twitter.com/bbende)
@@ -667,9 +669,22 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [IOT AND DATA SCIENCE – A TRUCKING DEMO ON DSX LOCAL WITH APACHE NIFI](https://hortonworks.com/blog/iot-data-science-trucking-demo-dsx-local-apache-nifi/)
 
+[Data Ingestion using Apache NiFi for Building Data Lakes - Twitter Data - Part 1](https://www.xenonstack.com/blog/data-engineering/data-ingestion-using-apache-nifi-for-building-data-lakes-twitter-data/)
+
 ### IOT
 
 [Secure IoT Command,Control, and Exfil with Apache MiNiFi](file:///Users/ohad/Downloads/slides.pdf) [code](https://github.com/alopresto/slides/blob/master/openiot2017/slides.pdf)
 
 
+### To Sort
+
+[nifi-integration-tests](https://github.com/ijokarumawak/nifi-integration-tests)
+
+[nifi-api-client-js](https://github.com/ijokarumawak/nifi-api-client-js)
+
+[testing](https://docs.hortonworks.com/HDPDocuments/HDF1/HDF-1.2.0.1/bk_DeveloperGuide/content/testing.html)
+
+[kylo](http://kylo.readthedocs.io/en/v0.8.4/user-guides/KyloOperationsGuide.html)
+
+[Configuration Management of Flows](https://cwiki.apache.org/confluence/display/NIFI/Configuration+Management+of+Flows)
 
