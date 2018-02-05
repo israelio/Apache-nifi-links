@@ -563,6 +563,47 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Data Replication](https://cwiki.apache.org/confluence/display/NIFI/Data+Replication)
 
+[Apache NiFi 1.0.0 – Cluster setup](https://pierrevillard.com/2016/08/13/apache-nifi-1-0-0-cluster-setup/)
+
+[Apache NiFi 1.1.0 – Secured cluster setup](https://pierrevillard.com/2016/11/29/apache-nifi-1-1-0-secured-cluster-setup/)
+
+[Scaling up/down a NiFi cluster](https://pierrevillard.com/2016/11/30/scaling-updown-a-nifi-cluster/)
+
+[Integration of NiFi with LDAP](https://pierrevillard.com/2017/01/24/integration-of-nifi-with-ldap/)
+
+[Authorizations with LDAP synchronization in Apache NiFi 1.4+](https://pierrevillard.com/2017/12/22/authorizations-with-ldap-synchronization-in-apache-nifi-1-4/)
+
+[HAProxy load balancing in front of Apache NiFi](https://pierrevillard.com/2017/02/10/haproxy-load-balancing-in-front-of-apache-nifi/)
+
+[Using counters in Apache NiFi](https://pierrevillard.com/2017/02/07/using-counters-in-apache-nifi/)
+
+[List/Fetch pattern and Remote Process Group in Apache NiFi](https://pierrevillard.com/2017/02/23/listfetch-pattern-and-remote-process-group-in-apache-nifi/)
+
+### XML
+[XML data processing with Apache NiFi](https://pierrevillard.com/2017/09/07/xml-data-processing-with-apache-nifi/)
+
+### Monitoring
+
+[Monitoring NiFi – Bootstrap notifier](https://pierrevillard.com/2017/05/11/monitoring-nifi-bootstrap-notifier/)
+
+[Monitoring NiFi – Logback configuration](https://pierrevillard.com/2017/05/12/monitoring-nifi-logback-configuration/)
+
+[Monitoring NiFi – Site2Site reporting tasks](https://pierrevillard.com/2017/05/13/monitoring-nifi-site2site-reporting-tasks/)
+
+[Monitoring NiFi – Workflow SLA](https://pierrevillard.com/2017/05/15/monitoring-nifi-workflow-sla/)
+
+[Monitoring NiFi – Ambari & Grafana](https://pierrevillard.com/2017/05/16/monitoring-nifi-ambari-grafana/)
+
+[Monitoring NiFi – Scripted Reporting Task](https://pierrevillard.com/2017/05/17/monitoring-nifi-scripted-reporting-task/)
+
+
+
+### Mini NiFi
+
+[Monitoring NiFi – Introduction](https://pierrevillard.com/2017/05/11/monitoring-nifi-introduction/)
+
+
+
 ### NAR
 
 [NiFi NAR Files Explained](https://medium.com/hashmapinc/nifi-nar-files-explained-14113f7796fd)
@@ -671,10 +712,19 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [Data Ingestion using Apache NiFi for Building Data Lakes - Twitter Data - Part 1](https://www.xenonstack.com/blog/data-engineering/data-ingestion-using-apache-nifi-for-building-data-lakes-twitter-data/)
 
+[Analyze Flickr user interests using Apache NiFi and Spark](https://pierrevillard.com/2016/04/04/analyze-flickr-account-using-apache/)
+
+
+
 ### IOT
 
 [Secure IoT Command,Control, and Exfil with Apache MiNiFi](file:///Users/ohad/Downloads/slides.pdf) [code](https://github.com/alopresto/slides/blob/master/openiot2017/slides.pdf)
 
+### HTTP Listen
+
+[How to listen to https with ListenHTTP in NiFi and setup ssl](https://www.simonellistonball.com/technology/nifi-ssl-listenhttp/)
+
+[URL shortener service with Apache NiFi](https://pierrevillard.com/2016/04/10/url-shortener-service-with-apache-nifi/)
 
 ### To Sort
 
