@@ -559,6 +559,8 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 ### Cluster
 
+[Setup apache NiFi cluster](http://nixtutorials.com/2017/01/11/setup-apache-nifi-cluster/)
+
 [nifi-service-clustered](https://libraries.io/github/abajwa-hw/nifi-service-clustered)
 
 [Data Replication](https://cwiki.apache.org/confluence/display/NIFI/Data+Replication)
