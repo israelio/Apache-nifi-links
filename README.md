@@ -743,3 +743,9 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [Apache nifi with Elasticsearch experiment](https://blog.qfdk.me/post/2016-12-12)
 
 [Let Your Data Flow with Apache NiFi](https://www.recallact.com/presentation/let-your-data-flow-apache-nifi)
+
+[Orchestrating NLP Building Blocks With Apache NiFi For Named-Entity Extraction](https://www.mtnfog.com/blog/orchestrating-nlp-building-blocks-with-apache-nifi/)
+
+[Use NiFi to process Excel spreadsheets in automated workflows](https://community.hortonworks.com/articles/155221/use-nifi-to-process-excel-spreadsheets-in-automate-1.html)
+
+[Gentle Introduction to Apache NiFi for Data Flow... and Some Clojure](https://dzone.com/articles/gentle-introduction-to-apache-nifi-for-dataflow-an?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fbig-data)
