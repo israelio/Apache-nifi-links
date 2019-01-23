@@ -728,6 +728,13 @@ In order to work with Jolt Json Transformation processor you should be familier 
 
 [URL shortener service with Apache NiFi](https://pierrevillard.com/2016/04/10/url-shortener-service-with-apache-nifi/)
 
+### Terraform
+
+[nifi terraform generator](https://github.com/Nordstrom/nifi_terraform_generator)
+
+[terraform provider nifi](https://github.com/Nordstrom/terraform-provider-nifi)
+
+
 ### To Sort
 
 [nifi-integration-tests](https://github.com/ijokarumawak/nifi-integration-tests)
@@ -749,7 +756,4 @@ In order to work with Jolt Json Transformation processor you should be familier 
 [Use NiFi to process Excel spreadsheets in automated workflows](https://community.hortonworks.com/articles/155221/use-nifi-to-process-excel-spreadsheets-in-automate-1.html)
 
 [Gentle Introduction to Apache NiFi for Data Flow... and Some Clojure](https://dzone.com/articles/gentle-introduction-to-apache-nifi-for-dataflow-an?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fbig-data)
-
-[nifi terraform generator](https://github.com/Nordstrom/nifi_terraform_generator)
-
 
